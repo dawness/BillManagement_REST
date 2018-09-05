@@ -18,6 +18,6 @@ User has the end points
 6.GET	    /Bills/getBillsOn	month				get bills on that particular month
 
 
-
-Used SpringBoot,MongoDB to create this restful webservice.
+Response will be in json format.
+Used SpringBoot,MongoDB to create this restful webservice. Used POSTMAN to test the api.
  
