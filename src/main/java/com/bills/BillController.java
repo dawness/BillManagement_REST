@@ -11,6 +11,7 @@ import com.bills.service.BillsService;
 
 
 @RestController
+@RequestMapping("/Bills")
 public class BillController {
 @Autowired
 	BillsService billService;
